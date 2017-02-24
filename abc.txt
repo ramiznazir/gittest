@@ -1,1 +1,2 @@
 this is updated from machine after taking clone from repository
+-now this is from github manual/UI commit 
